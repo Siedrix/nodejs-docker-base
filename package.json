@@ -1,0 +1,14 @@
+{
+  "name": "node-base",
+  "version": "0.0.0",
+  "description": "This is the base proyect for node and docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siedrix",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.10.2"
+  }
+}

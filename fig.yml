@@ -1,0 +1,5 @@
+web:
+  build: .
+  command: node app.js
+  ports:
+   - "3000:3000"
